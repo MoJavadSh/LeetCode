@@ -20,4 +20,8 @@ MY Solved Challenges on LeetCode
 |  |
 | ------- |
 | [0125-valid-palindrome](https://github.com/MoJavadSh/LeetCode/tree/master/0125-valid-palindrome) |
+## Array
+|  |
+| ------- |
+| [3685-count-subarrays-of-length-three-with-a-condition](https://github.com/MoJavadSh/LeetCode/tree/master/3685-count-subarrays-of-length-three-with-a-condition) |
 <!---LeetCode Topics End-->
