@@ -23,5 +23,10 @@ MY Solved Challenges on LeetCode
 ## Array
 |  |
 | ------- |
+| [3213-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/MoJavadSh/LeetCode/tree/master/3213-count-subarrays-where-max-element-appears-at-least-k-times) |
 | [3685-count-subarrays-of-length-three-with-a-condition](https://github.com/MoJavadSh/LeetCode/tree/master/3685-count-subarrays-of-length-three-with-a-condition) |
+## Sliding Window
+|  |
+| ------- |
+| [3213-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/MoJavadSh/LeetCode/tree/master/3213-count-subarrays-where-max-element-appears-at-least-k-times) |
 <!---LeetCode Topics End-->
