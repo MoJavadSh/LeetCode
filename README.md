@@ -17,10 +17,12 @@ MY Solved Challenges on LeetCode
 |  |
 | ------- |
 | [0125-valid-palindrome](https://github.com/MoJavadSh/LeetCode/tree/master/0125-valid-palindrome) |
+| [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/MoJavadSh/LeetCode/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 ## String
 |  |
 | ------- |
 | [0125-valid-palindrome](https://github.com/MoJavadSh/LeetCode/tree/master/0125-valid-palindrome) |
+| [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/MoJavadSh/LeetCode/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 ## Array
 |  |
 | ------- |
@@ -31,4 +33,8 @@ MY Solved Challenges on LeetCode
 |  |
 | ------- |
 | [3213-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/MoJavadSh/LeetCode/tree/master/3213-count-subarrays-where-max-element-appears-at-least-k-times) |
+## String Matching
+|  |
+| ------- |
+| [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/MoJavadSh/LeetCode/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 <!---LeetCode Topics End-->
