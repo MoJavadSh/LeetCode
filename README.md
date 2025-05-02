@@ -23,6 +23,7 @@ MY Solved Challenges on LeetCode
 |  |
 | ------- |
 | [0125-valid-palindrome](https://github.com/MoJavadSh/LeetCode/tree/master/0125-valid-palindrome) |
+| [0521-longest-uncommon-subsequence-i](https://github.com/MoJavadSh/LeetCode/tree/master/0521-longest-uncommon-subsequence-i) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/MoJavadSh/LeetCode/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/MoJavadSh/LeetCode/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 ## Array
