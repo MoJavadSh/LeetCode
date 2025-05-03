@@ -30,6 +30,7 @@ MY Solved Challenges on LeetCode
 |  |
 | ------- |
 | [0792-binary-search](https://github.com/MoJavadSh/LeetCode/tree/master/0792-binary-search) |
+| [1049-minimum-domino-rotations-for-equal-row](https://github.com/MoJavadSh/LeetCode/tree/master/1049-minimum-domino-rotations-for-equal-row) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/MoJavadSh/LeetCode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [3213-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/MoJavadSh/LeetCode/tree/master/3213-count-subarrays-where-max-element-appears-at-least-k-times) |
 | [3685-count-subarrays-of-length-three-with-a-condition](https://github.com/MoJavadSh/LeetCode/tree/master/3685-count-subarrays-of-length-three-with-a-condition) |
@@ -49,4 +50,8 @@ MY Solved Challenges on LeetCode
 |  |
 | ------- |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/MoJavadSh/LeetCode/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
+## Greedy
+|  |
+| ------- |
+| [1049-minimum-domino-rotations-for-equal-row](https://github.com/MoJavadSh/LeetCode/tree/master/1049-minimum-domino-rotations-for-equal-row) |
 <!---LeetCode Topics End-->
