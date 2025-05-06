@@ -38,6 +38,7 @@ MY Solved Challenges on LeetCode
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/MoJavadSh/LeetCode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [2048-build-array-from-permutation](https://github.com/MoJavadSh/LeetCode/tree/master/2048-build-array-from-permutation) |
 | [3213-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/MoJavadSh/LeetCode/tree/master/3213-count-subarrays-where-max-element-appears-at-least-k-times) |
+| [3220-count-tested-devices-after-test-operations](https://github.com/MoJavadSh/LeetCode/tree/master/3220-count-tested-devices-after-test-operations) |
 | [3685-count-subarrays-of-length-three-with-a-condition](https://github.com/MoJavadSh/LeetCode/tree/master/3685-count-subarrays-of-length-three-with-a-condition) |
 ## Sliding Window
 |  |
@@ -55,6 +56,7 @@ MY Solved Challenges on LeetCode
 |  |
 | ------- |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/MoJavadSh/LeetCode/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
+| [3220-count-tested-devices-after-test-operations](https://github.com/MoJavadSh/LeetCode/tree/master/3220-count-tested-devices-after-test-operations) |
 ## Greedy
 |  |
 | ------- |
@@ -68,4 +70,5 @@ MY Solved Challenges on LeetCode
 |  |
 | ------- |
 | [2048-build-array-from-permutation](https://github.com/MoJavadSh/LeetCode/tree/master/2048-build-array-from-permutation) |
+| [3220-count-tested-devices-after-test-operations](https://github.com/MoJavadSh/LeetCode/tree/master/3220-count-tested-devices-after-test-operations) |
 <!---LeetCode Topics End-->
