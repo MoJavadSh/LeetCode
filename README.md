@@ -7,6 +7,7 @@ MY Solved Challenges on LeetCode
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/MoJavadSh/LeetCode/tree/master/0007-reverse-integer) |
+| [0009-palindrome-number](https://github.com/MoJavadSh/LeetCode/tree/master/0009-palindrome-number) |
 | [0069-sqrtx](https://github.com/MoJavadSh/LeetCode/tree/master/0069-sqrtx) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/MoJavadSh/LeetCode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 ## Binary Search
