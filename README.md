@@ -22,12 +22,14 @@ MY Solved Challenges on LeetCode
 | ------- |
 | [0125-valid-palindrome](https://github.com/MoJavadSh/LeetCode/tree/master/0125-valid-palindrome) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/MoJavadSh/LeetCode/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
+| [1894-merge-strings-alternately](https://github.com/MoJavadSh/LeetCode/tree/master/1894-merge-strings-alternately) |
 ## String
 |  |
 | ------- |
 | [0125-valid-palindrome](https://github.com/MoJavadSh/LeetCode/tree/master/0125-valid-palindrome) |
 | [0521-longest-uncommon-subsequence-i](https://github.com/MoJavadSh/LeetCode/tree/master/0521-longest-uncommon-subsequence-i) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/MoJavadSh/LeetCode/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
+| [1894-merge-strings-alternately](https://github.com/MoJavadSh/LeetCode/tree/master/1894-merge-strings-alternately) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/MoJavadSh/LeetCode/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2337-remove-digit-from-number-to-maximize-result](https://github.com/MoJavadSh/LeetCode/tree/master/2337-remove-digit-from-number-to-maximize-result) |
 ## Array
