@@ -27,6 +27,7 @@ MY Solved Challenges on LeetCode
 |  |
 | ------- |
 | [0125-valid-palindrome](https://github.com/MoJavadSh/LeetCode/tree/master/0125-valid-palindrome) |
+| [0389-find-the-difference](https://github.com/MoJavadSh/LeetCode/tree/master/0389-find-the-difference) |
 | [0521-longest-uncommon-subsequence-i](https://github.com/MoJavadSh/LeetCode/tree/master/0521-longest-uncommon-subsequence-i) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/MoJavadSh/LeetCode/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [1894-merge-strings-alternately](https://github.com/MoJavadSh/LeetCode/tree/master/1894-merge-strings-alternately) |
@@ -53,6 +54,7 @@ MY Solved Challenges on LeetCode
 ## Hash Table
 |  |
 | ------- |
+| [0389-find-the-difference](https://github.com/MoJavadSh/LeetCode/tree/master/0389-find-the-difference) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/MoJavadSh/LeetCode/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 ## Counting
 |  |
@@ -73,4 +75,12 @@ MY Solved Challenges on LeetCode
 | ------- |
 | [2048-build-array-from-permutation](https://github.com/MoJavadSh/LeetCode/tree/master/2048-build-array-from-permutation) |
 | [3220-count-tested-devices-after-test-operations](https://github.com/MoJavadSh/LeetCode/tree/master/3220-count-tested-devices-after-test-operations) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0389-find-the-difference](https://github.com/MoJavadSh/LeetCode/tree/master/0389-find-the-difference) |
+## Sorting
+|  |
+| ------- |
+| [0389-find-the-difference](https://github.com/MoJavadSh/LeetCode/tree/master/0389-find-the-difference) |
 <!---LeetCode Topics End-->
